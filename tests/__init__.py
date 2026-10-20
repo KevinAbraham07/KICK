@@ -1,0 +1,3 @@
+"""
+KICK test suite package.
+"""
